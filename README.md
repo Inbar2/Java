@@ -1,2 +1,2 @@
 # Java
-Java exercises and projects
+Java exercises solutions
